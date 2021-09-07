@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 8–10</string>
+    <string name="search_phrase">Enter search phrase</string>
+    <string name="search">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="hint">Avengers…</string>
+    <string name="too_short">Search phrase is too short!</string>
+    <string name="number_query">Search phrase has to be a number!</string>
+    <string-array name="spinner_values">
+        <item>Tytuł</item>
+        <item>Rok</item>
+        <item>Aktor</item>
+    </string-array>
+</resources>
